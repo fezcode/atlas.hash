@@ -1,0 +1,8 @@
+atlas.hash
+atlas.hash.exe
+vendor/
+*.log
+.idea/
+build/
+.vscode/
+*.exe~

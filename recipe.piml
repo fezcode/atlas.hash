@@ -1,0 +1,4 @@
+(name) atlas.hash
+(version) 0.1.0
+(description) Fast, minimalist terminal utility for generating and comparing file hashes.
+(license) MIT
